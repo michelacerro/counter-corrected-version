@@ -1,6 +1,6 @@
 # JS basic counter
-Project for start2impact
-COrrected version
+Project for start2impact</br>
+Corrected version
 
 ## Description
 ### General description
